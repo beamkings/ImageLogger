@@ -1,6 +1,5 @@
 # ImageLogger
 Made by BeamNation
-extropical#1695
 
 Basically all you need to do is
 1. Download as zip
